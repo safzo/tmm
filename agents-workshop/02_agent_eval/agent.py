@@ -21,6 +21,7 @@ from openai import OpenAI
 from pydantic import BaseModel
 from unitycatalog.ai.core.base import get_uc_function_client
 
+
 ############################################
 # Define your LLM endpoint and system prompt
 ############################################
