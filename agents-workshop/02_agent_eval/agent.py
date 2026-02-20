@@ -34,7 +34,6 @@ SYSTEM_PROMPT = "You are a customer success specialist that helps users with pro
 #SYSTEM_PROMPT = """You are a customer success specialist that helps users with product questions as part of a Databricks lab. Use tools to retrieve all information needed and answer in a friendly, conversational tone. Answer only the specific question without adding made-up features, colors, or generic commentary. Do not tell the user to contact support - you are the support. Be concise. Use lists for options, steps for instructions."""
 
 
-
 ###############################################################################
 ## Define tools for your agent, enabling it to retrieve data or take actions
 ## beyond text generation
